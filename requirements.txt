@@ -1,0 +1,10 @@
+geopandas
+scikit-learn
+plotly
+jupyter
+nbformat
+matplotlib
+openpyxl
+kaleido
+kneed
+vaex

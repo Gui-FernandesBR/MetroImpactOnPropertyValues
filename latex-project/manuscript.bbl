@@ -1,0 +1,81 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Arvai(2020)]{Arvai_kneed_2020}
+K.~Arvai.
+\newblock {kneed}, Aug. 2020.
+\newblock URL \url{https://github.com/arvkevi/kneed}.
+
+\bibitem[Campos and Almeida(2018)]{campos_almeida_2018}
+R.~B.~A. Campos and E.~S.~d. Almeida.
+\newblock Decomposição espacial nos preços de imóveis residenciais no
+  município de são paulo.
+\newblock \emph{Estudos Econômicos (São Paulo)}, 48\penalty0 (1):\penalty0
+  5--38, Jan 2018.
+\newblock ISSN 0101-4161.
+\newblock URL \url{https://doi.org/10.1590/0101-416148115rce}.
+
+\bibitem[Davi(2019)]{kaggle_dataset}
+Davi.
+\newblock Inauguração de estações do metrô-sp e da cptm, 2019.
+\newblock URL
+  \url{https://www.kaggle.com/datasets/dsrdavi/inauguracao-de-estacoes-do-metrosp-e-da-cptm/}.
+
+\bibitem[de~São~Paulo(2017)]{MetroSP2017Pesquisa}
+M.~de~São~Paulo.
+\newblock Pesquisa origem e destino.
+\newblock
+  \url{https://transparencia.metrosp.com.br/dataset/pesquisa-origem-e-destino},
+  2017.
+\newblock Accessed: 2021-06-01.
+
+\bibitem[Fernando~Gomes and Salvarani(2022)]{Gomes_2022}
+M.~A.~G. Fernando~Gomes and L.~Salvarani.
+\newblock Painel cadastral da cidade de são paulo, sep 2022.
+\newblock URL \url{https://doi.org/10.55881/cem.db.dash01}.
+
+\bibitem[Li(2018)]{LI201852}
+Z.~Li.
+\newblock The impact of metro accessibility on residential property values: An
+  empirical analysis.
+\newblock \emph{Research in Transportation Economics}, 70:\penalty0 52--56,
+  2018.
+\newblock ISSN 0739-8859.
+\newblock URL \url{https://doi.org/10.1016/j.retrec.2018.07.006}.
+
+\bibitem[MacQueen et~al.(1967)]{macqueen1967some}
+J.~MacQueen et~al.
+\newblock Some methods for classification and analysis of multivariate
+  observations.
+\newblock In \emph{Proceedings of the fifth Berkeley symposium on mathematical
+  statistics and probability}, volume~1, pages 281--297. Oakland, CA, USA,
+  1967.
+
+\bibitem[Moran(1950)]{moran}
+P.~A.~P. Moran.
+\newblock Notes on continuous stochastic phenomena.
+\newblock \emph{Biometrika}, 37\penalty0 (1/2):\penalty0 17--23, 1950.
+\newblock ISSN 00063444.
+\newblock URL \url{http://www.jstor.org/stable/2332142}.
+
+\bibitem[Savitzky and Golay(1964)]{savitzky1964smoothing}
+A.~Savitzky and M.~J. Golay.
+\newblock Smoothing and differentiation of data by simplified least squares
+  procedures.
+\newblock \emph{Analytical chemistry}, 36\penalty0 (8):\penalty0 1627--1639,
+  1964.
+
+\bibitem[Sun et~al.(2016)Sun, Wang, Li, and Villatoro]{sun2016impact}
+H.~Sun, Y.~Wang, Q.~Li, and F.~R. Villatoro.
+\newblock The impact of subway lines on residential property values in tianjin:
+  An empirical study based on hedonic pricing model.
+\newblock \emph{Discrete Dynamics in Nature and Society}, 2016:\penalty0
+  1478413, 2016.
+\newblock ISSN 1026-0226.
+\newblock URL \url{https://doi.org/10.1155/2016/1478413}.
+
+\end{thebibliography}

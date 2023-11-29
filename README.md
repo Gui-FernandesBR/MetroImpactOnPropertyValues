@@ -4,16 +4,16 @@ This repository contains the code and data for the research project "Metro Impac
 This study investigates the influence of metro networks on property values in São Paulo, utilizing spatial econometric methods and data analysis.
 
 <p align="center">
-  <img src="notebooks/ezgif-1-c597e2d618.gif" alt="Animated overview of project" width="46.7%"/>
-  <img src="latex-project/figs/cluster-3.png" alt="Image" width="50.5%"/>
-</p>
-
-<p align="center">
+  <img src="notebooks/ezgif-1-c597e2d618.gif" alt="Animated overview of project" width="70%"/>
   
 </p>
 
 <p align="center">
-  <img src="latex-project/figs/exponential_regression.png" alt="Image" width="70%"/>
+  <img src="latex-project/figs/cluster-3.png" alt="Image" width="70%"/>
+</p>
+
+<p align="center">
+  <img src="latex-project/figs/exponential_regression.png" alt="Image" width="60%"/>
 </p>
 
 ## Overview

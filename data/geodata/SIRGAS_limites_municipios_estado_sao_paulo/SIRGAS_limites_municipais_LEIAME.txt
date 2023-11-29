@@ -1,0 +1,4 @@
+Fonte dos Dados: IBGE - O limite Municipal de São Paulo foi ajustado (maio2017) pela PRODAM para compatibilizar com uma escala maior.
+Sistema de Projeção: UTM (Fuso 23 ou MC -45) 
+Datum: SIRGAS2000 (EPSG:31983)
+Fonte utilizada para o texto: Windows1252
